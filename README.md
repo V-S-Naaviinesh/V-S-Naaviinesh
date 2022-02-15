@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V.S.Naaviinesh</h1>
-<h3 align="center">A passionate web developer from Ipoh, Perak, West Malaysia</h3>
+<h3 align="center">A passionate web developer from West Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-s-naaviinesh&label=Profile%20views&color=0e75b6&style=flat" alt="v-s-naaviinesh" /> </p>
 
